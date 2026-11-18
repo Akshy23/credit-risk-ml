@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data and generated models
+# Download the dataset separately; do not commit local data files.
+data/
+models/
+*.joblib
+*.pkl
+*.pickle
+
+# Environment variables and local secrets
+.env
+.env.*
+!.env.example
+
+# IDE and operating system files
+.vscode/
+.DS_Store
+Thumbs.db

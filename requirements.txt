@@ -1,0 +1,10 @@
+fastapi
+ipykernel
+joblib
+matplotlib
+numpy
+pandas
+pydantic
+scikit-learn
+seaborn
+uvicorn
